@@ -28,4 +28,4 @@ public class Scoreboard : MonoBehaviour
         // You can adjust this formula to suit your needs
         return (int)(radius * 10);
     }
-}
+}//test
